@@ -16,6 +16,3 @@ Our model prioritize **Recall (Threat Detection)** to ensure zero-day attacks ar
 * **Zero-Day Audit:** Proven detection of unseen attack vectors via heuristic reasoning.
 
 
-## 📈 Visualizations
-![Model Comparison](./model_comparison_bar.png)
-![Confusion Matrix](./confusion_matrices_grid.png)
