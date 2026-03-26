@@ -1,0 +1,22 @@
+# Data Manipulation & Visualization
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning Models
+scikit-learn
+xgboost
+pykan
+torch
+
+# RAG & Vector Database
+sentence-transformers
+chromadb
+
+# AI API & Environment
+groq
+python-dotenv
+
+# Utilities
+tqdm
